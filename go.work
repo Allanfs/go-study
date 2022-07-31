@@ -3,4 +3,5 @@ go 1.18
 use (
 	./example // git clone https://go.googlesource.com/example
 	./hello
+	./mytest
 )
