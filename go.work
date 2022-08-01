@@ -3,5 +3,6 @@ go 1.18
 use (
 	./example // git clone https://go.googlesource.com/example
 	./hello
+	./mock_stub
 	./mytest
 )
